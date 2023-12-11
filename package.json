@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "author": "mickael muller",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "prettier": "^3.1.1"
+  }
+}
